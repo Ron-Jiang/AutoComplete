@@ -1,4 +1,4 @@
-Transfered from private repository @ Pitt
+Transfered from private coursework repository @ Pitt
 
 ## Table of Contents
 
